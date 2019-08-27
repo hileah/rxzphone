@@ -3625,7 +3625,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:6px;
+  top:-2px;
   width:52px;
   word-wrap:break-word;
 }
@@ -3659,7 +3659,7 @@
   border-width:0px;
   position:absolute;
   left:2px;
-  top:6px;
+  top:-2px;
   width:52px;
   word-wrap:break-word;
 }

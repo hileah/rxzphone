@@ -11,6 +11,8 @@
 }
 .box_2 {
 }
+.box_3 {
+}
 .ellipse {
 }
 ._形状 {
@@ -93,4 +95,24 @@
 ._鼠标按下文本链接时 {
 }
 .flow_shape {
+}
+.box_21 {
+}
+.label1 {
+  font-size:14px;
+  text-align:left;
+}
+.shape {
+}
+.paragraph {
+  text-align:left;
+}
+._36号字_顶部标题、大按钮、弹窗提示主标题_ {
+  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.icon {
 }
