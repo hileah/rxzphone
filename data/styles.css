@@ -3,9 +3,12 @@
   font-weight:400;
   font-style:normal;
   font-size:13px;
+  letter-spacing:normal;
   color:#333333;
+  vertical-align:none;
   text-align:center;
   line-height:normal;
+  text-transform:none;
 }
 .box_1 {
 }
@@ -77,13 +80,24 @@
 ._文本链接 {
   color:#0000FF;
 }
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
 ._流程形状 {
 }
 ._连接线 {
 }
+.form_disabled {
+}
 .line {
 }
 .arrow {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
 }
 .checkbox {
   text-align:left;
@@ -108,7 +122,7 @@
   text-align:left;
 }
 ._36号字_顶部标题、大按钮、弹窗提示主标题_ {
-  font-family:'PingFang SC Regular', 'PingFang SC';
+  font-family:'PingFang SC Normal', 'PingFang SC';
   font-weight:400;
   font-style:normal;
   font-size:18px;
@@ -116,3 +130,4 @@
 }
 .icon {
 }
+textarea, select, input, button { outline: none; }

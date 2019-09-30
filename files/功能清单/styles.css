@@ -8,6 +8,10 @@
   margin-right:0;
   text-align:left;
 }
+.form_sketch {
+  border-color:transparent;
+  background-color:transparent;
+}
 #base {
   position:absolute;
   z-index:0;
@@ -27,13 +31,18 @@
   top:0px;
   width:904px;
   height:1352px;
+  display:flex;
 }
-#u1 {
-  border-width:0px;
+#u0 .text {
   position:absolute;
-  left:2px;
-  top:668px;
-  width:900px;
-  visibility:hidden;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u0_text {
+  border-width:0px;
   word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
 }
