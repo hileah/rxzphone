@@ -2370,7 +2370,7 @@
   border-width:0px;
   position:absolute;
   left:204px;
-  top:846px;
+  top:841px;
   width:63px;
   height:20px;
   display:flex;
@@ -2388,21 +2388,13 @@
   word-wrap:break-word;
   text-transform:none;
 }
-#u378_div {
+#u378_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:67px;
   height:20px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:12px;
 }
 #u378 {
   border-width:0px;
